@@ -1,2 +1,2 @@
 # FashionGeneratorGAN
-GAN AI model
+GAN AI model.
